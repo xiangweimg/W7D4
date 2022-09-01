@@ -13,21 +13,21 @@ body {
 }
 
 button {
-	background-color:white;
-	border-color:white;
-	color:black;
-	font-weight:10px;
-	padding:0;
-	border-radius:inherit;
+	background-color:rgb(56,100,135);
+	border-color:rgb(56,100,135);
+	color:white;
+	font-weight:900;
+	padding:6px 8px 6px 8px;
+	border-radius:3px;
 	transition:inherit;
 	font-family:inherit;
 	text-transform:inherit;
-	font-size:inherit;
+	font-size:10px;
 	text-align:inherit;
 }
 
 button:hover {
-	background-color:darkblue;
+	// background-color:darkblue;
 	border-color: rgb(1, 1, 97);
 }
 
